@@ -1,0 +1,147 @@
+.container {
+  margin-top: 30px;
+  position: fixed;
+}
+
+.bg-left {
+  width: 129px;
+  height: 64.5px;
+}
+
+.h1-bg {
+  color: #000;
+  font-family: Raleway;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 41px;
+  margin-top: 10px;
+  margin-left: -30px;
+}
+
+.bg-dark {
+  display: flex;
+  justify-content: space-around;
+  width: 200px;
+  margin-left: 150px;
+}
+
+.h4-bg {
+  text-decoration: none;
+  color: #000;
+  font-family: Raleway;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 20px;
+  letter-spacing: 1.275px;
+}
+
+.bg-white {
+  display: flex;
+  justify-content: space-around;
+  width: 800px;
+  margin-left: 960px;
+  margin-top: -75px;
+}
+
+.button-bg {
+  width: 168px;
+  height: 41px;
+  background: #4BA87D;
+  color: #FFF;
+  text-align: center;
+  font-family: Raleway;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 20px;
+  letter-spacing: 1.275px;
+  border: 2px solid #4BA87D;
+  margin-top: 10px;
+}
+
+.button-bg:hover {
+  background-color: #FFF;
+  color: #4BA87D;
+}
+
+.div1 {
+  width: 110px;
+  height: 5px;
+  background: #4BA87D;
+}
+
+.div1:hover {
+  background-color: #FFF;
+  border: 1px solid #4BA87D;
+}
+
+.men {
+  display: flex;
+  justify-content: space-around;
+  width: 575px;
+  margin-left: 963px;
+  margin-top: -20px;
+}
+
+.h1-dark {
+  color: #000;
+  font-family: Playfair Display;
+  font-size: 59px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 71px;
+}
+
+.h4-dark {
+  margin-top: -30px;
+  color: #000;
+  font-family: Raleway;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px;
+}
+
+.button-dark {
+  width: 180px;
+  height: 65px;
+  background: #4BA87D;
+  color: #FFF;
+  text-align: center;
+  font-family: Raleway;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 25px;
+  letter-spacing: 1.05px;
+  border: 2px solid #4BA87D;
+}
+
+.button-left {
+  width: 180px;
+  height: 65px;
+  background: #FFF;
+  color: #4BA87D;
+  text-align: center;
+  font-family: Raleway;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 25px;
+  letter-spacing: 1.05px;
+  border: 2px solid #4BA87D;
+}
+
+.display {
+  display: flex;
+  justify-content: space-around;
+  width: 500px;
+  margin-left: -30px;
+}
+
+.hamma {
+  margin-left: 220px;
+  margin-top: 200px;
+}/*# sourceMappingURL=style.css.map */
